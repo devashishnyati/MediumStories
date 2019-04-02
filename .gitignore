@@ -1,2 +1,4 @@
 #Ignore Data folder
 Data/*.csv
+
+.DS_Store
