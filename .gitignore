@@ -1,2 +1,2 @@
 #Ignore Data folder
-Data/
+Data/*.csv
