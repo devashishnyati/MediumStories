@@ -2,3 +2,6 @@
 Data/*.csv
 
 .DS_Store
+
+*.csv
+*.txt
